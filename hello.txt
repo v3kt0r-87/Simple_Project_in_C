@@ -15,32 +15,4 @@ as
 d as
 dfa
 f s
-fa
-fas f
-sfas
-f a
-fa
- f
-3
-321
-111
-222
-333
-44
-55
-66
-7
-78
-9
-0
-
-dsasadsda
-das
-dasd
-sad
-sad
-sad
-asd
-asd
-asd
-as
+f
